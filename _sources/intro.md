@@ -1,6 +1,8 @@
-BIENVENIDOS A MILIBRO
+## <center>BIENVENIDOS</center>
 
-Ingresa a las siguientes páginas:
+# MENÙ INICIAL
+
+Ingresa a las siguientes pàginas y conoceme.
 
 - [Página 1](Untitled1.ipynb)
 - [Página 2](Untitled2.ipynb)
